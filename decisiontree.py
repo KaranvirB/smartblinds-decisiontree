@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 26 17:05:03 2023
-
-@author: allod
-"""
-
 import pandas as pd
 import random
 from datetime import datetime
